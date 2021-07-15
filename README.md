@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samprdxn
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning RDS Aurora and Terraform. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sameers@axioned.com
 
